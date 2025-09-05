@@ -1,0 +1,1 @@
+{"name":"astro-warta-terkini","type":"module","version":"1.0.0","scripts":{"dev":"astro dev","build":"astro build","preview":"astro preview","deploy":"astro build && npx gh-pages -d dist"},"dependencies":{"astro":"^4.7.0","axios":"^1.6.7"},"devDependencies":{"tailwindcss":"^3.4.1","autoprefixer":"^10.4.19","postcss":"^8.4.38","gh-pages":"^6.0.0"}}
